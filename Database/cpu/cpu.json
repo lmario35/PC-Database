@@ -1,0 +1,229 @@
+{
+    "cpu": [
+      {
+        "id": "1b2a6a42-03a4-4c3a-9e39-5e8d91e6e2a1",
+        "brand": "Intel",
+        "series": "Core i9",
+        "model": "Core i9-13900K",
+        "architecture": "Raptor Lake",
+        "socket": "LGA1700",
+        "cores": 24,
+        "threads": 32,
+        "base_clock": {
+          "value": 3.0,
+          "unit": "GHz"
+        },
+        "boost_clock": {
+          "value": 5.8,
+          "unit": "GHz"
+        },
+        "l3_cache": {
+          "value": 36,
+          "unit": "MB"
+        },
+        "tdp": {
+          "value": 125,
+          "unit": "W"
+        },
+        "release_year": 2022,
+        "integrated_graphics": {
+          "model": "Intel UHD Graphics 770",
+          "base_clock": {
+            "value": 300,
+            "unit": "MHz"
+          },
+          "max_clock": {
+            "value": 1.65,
+            "unit": "GHz"
+          }
+        },
+        "last_modified": "2024-10-31"
+      },
+      {
+        "id": "2b2a6a42-03a4-4c3a-9e39-5e8d91e6e2a2",
+        "brand": "Intel",
+        "series": "Core i7",
+        "model": "Core i7-13700K",
+        "architecture": "Raptor Lake",
+        "socket": "LGA1700",
+        "cores": 16,
+        "threads": 24,
+        "base_clock": {
+          "value": 3.4,
+          "unit": "GHz"
+        },
+        "boost_clock": {
+          "value": 5.4,
+          "unit": "GHz"
+        },
+        "l3_cache": {
+          "value": 30,
+          "unit": "MB"
+        },
+        "tdp": {
+          "value": 125,
+          "unit": "W"
+        },
+        "release_year": 2022,
+        "integrated_graphics": {
+          "model": "Intel UHD Graphics 770",
+          "base_clock": {
+            "value": 300,
+            "unit": "MHz"
+          },
+          "max_clock": {
+            "value": 1.65,
+            "unit": "GHz"
+          }
+        },
+        "last_modified": "2024-10-31"
+      },
+      {
+        "id": "3b2a6a42-03a4-4c3a-9e39-5e8d91e6e2a3",
+        "brand": "Intel",
+        "series": "Core i5",
+        "model": "Core i5-13600K",
+        "architecture": "Raptor Lake",
+        "socket": "LGA1700",
+        "cores": 14,
+        "threads": 20,
+        "base_clock": {
+          "value": 3.5,
+          "unit": "GHz"
+        },
+        "boost_clock": {
+          "value": 5.1,
+          "unit": "GHz"
+        },
+        "l3_cache": {
+          "value": 24,
+          "unit": "MB"
+        },
+        "tdp": {
+          "value": 125,
+          "unit": "W"
+        },
+        "release_year": 2022,
+        "integrated_graphics": {
+          "model": "Intel UHD Graphics 770",
+          "base_clock": {
+            "value": 300,
+            "unit": "MHz"
+          },
+          "max_clock": {
+            "value": 1.65,
+            "unit": "GHz"
+          }
+        },
+        "last_modified": "2024-10-31"
+      },
+      {
+        "id": "4b2a6a42-03a4-4c3a-9e39-5e8d91e6e2a4",
+        "brand": "Intel",
+        "series": "Core i3",
+        "model": "Core i3-13100",
+        "architecture": "Raptor Lake",
+        "socket": "LGA1700",
+        "cores": 4,
+        "threads": 8,
+        "base_clock": {
+          "value": 3.4,
+          "unit": "GHz"
+        },
+        "boost_clock": {
+          "value": 4.5,
+          "unit": "GHz"
+        },
+        "l3_cache": {
+          "value": 12,
+          "unit": "MB"
+        },
+        "tdp": {
+          "value": 60,
+          "unit": "W"
+        },
+        "release_year": 2023,
+        "integrated_graphics": {
+          "model": "Intel UHD Graphics 730",
+          "base_clock": {
+            "value": 350,
+            "unit": "MHz"
+          },
+          "max_clock": {
+            "value": 1.4,
+            "unit": "GHz"
+          }
+        },
+        "last_modified": "2024-10-31"
+      },
+      {
+        "id": "5b2a6a42-03a4-4c3a-9e39-5e8d91e6e2a5",
+        "brand": "AMD",
+        "series": "Ryzen 9",
+        "model": "Ryzen 9 7950X",
+        "architecture": "Zen 4",
+        "socket": "AM5",
+        "cores": 16,
+        "threads": 32,
+        "base_clock": {
+          "value": 4.5,
+          "unit": "GHz"
+        },
+        "boost_clock": {
+          "value": 5.7,
+          "unit": "GHz"
+        },
+        "l3_cache": {
+          "value": 64,
+          "unit": "MB"
+        },
+        "tdp": {
+          "value": 170,
+          "unit": "W"
+        },
+        "release_year": 2023,
+        "integrated_graphics": {
+          "model": "Radeon Graphics",
+          "base_clock": {
+            "value": 200,
+            "unit": "MHz"
+          },
+          "max_clock": {
+            "value": 2.2,
+            "unit": "GHz"
+          }
+        },
+        "last_modified": "2024-10-31"
+      },
+      {
+        "id": "6b2a6a42-03a4-4c3a-9e39-5e8d91e6e2a6",
+        "brand": "AMD",
+        "series": "Ryzen 7",
+        "model": "Ryzen 7 7800X3D",
+        "architecture": "Zen 4",
+        "socket": "AM5",
+        "cores": 8,
+        "threads": 16,
+        "base_clock": {
+          "value": 4.2,
+          "unit": "GHz"
+        },
+        "boost_clock": {
+          "value": 5.0,
+          "unit": "GHz"
+        },
+        "l3_cache": {
+          "value": 96,
+          "unit": "MB"
+        },
+        "tdp": {
+          "value": 120,
+          "unit": "W"
+        },
+        "release_year": 2023,
+        "integrated_graphics": null,
+        "last_modified": "2024-10-31"
+      }
+    ]
+  }
+  
